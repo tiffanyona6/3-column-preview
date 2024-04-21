@@ -1,7 +1,7 @@
 # 3 Column Preview
 
-![Imagen del proyecto](![https://raw.githubusercontent.com/tiffanyona6/3-column-preview/main/desktop-preview.jpg)
-https://raw.githubusercontent.com/tiffanyona6/3-column-preview/main/desktop-preview.jpg
+![Captura del proyecto](https://raw.githubusercontent.com/tiffanyona6/3-column-preview/main/desktop-preview.jpg)
+
 ## Ejemplo en vivo
 
 - [URL-de-github-pages-de-este-proyecto](https://tiffanyona6.github.io/3-column-preview/)
