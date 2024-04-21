@@ -26,7 +26,7 @@ Creación de un card, aplicación de la fuente en CSS y en html y hemos añadido
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto]([https://raw.githubusercontent.com/tiffanyona6/3-column-preview/main/desktop-preview.jpg)
+![Captura del proyecto](https://raw.githubusercontent.com/tiffanyona6/3-column-preview/main/desktop-preview.jpg)
 ![Captura del proyecto](https://raw.githubusercontent.com/tiffanyona6/3-column-preview/main/mobile-design.jpg)
 
 
