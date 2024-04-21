@@ -1,6 +1,7 @@
 # 3 Column Preview
 
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](![image](https://github.com/tiffanyona6/3-column-preview/assets/163582444/51002150-15f1-48ff-9090-3d9a4bafeaa3)
+)
 
 ## Ejemplo en vivo
 
@@ -9,11 +10,11 @@
 
 ## Descripción 📑
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+Card responsive.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+Creación de un card, aplicación de la fuente en CSS y en html y hemos añadido asset a nuestra plantilla.
 
 ## Tecnologías 🛠
 
@@ -26,16 +27,15 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://raw.githubusercontent.com/tiffanyona6/3-column-preview/main/design/mobile-design.jpg)
-![Captura del proyecto](https://raw.githubusercontent.com/tiffanyona6/3-column-preview/main/design/desktop-preview.jpg)
+![Captura del proyecto](![image](https://github.com/tiffanyona6/3-column-preview/assets/163582444/0b73bd64-735f-4510-9a6c-20ad87714140)
+)
 
 ## Autor ✒️
 
 **Tiffany Oña**
 
-- [micorreo@midominio.com](micorreo@midominio.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-- [Porfolio web](https://tu-dominio.com/)
+- Tiffany Oña
+- [LinkedIn](https://www.linkedin.com/in/tiffany-o%C3%B1a-/)
 
 ## Instalación
 
