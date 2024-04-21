@@ -1,6 +1,6 @@
 # 3 Column Preview
 
-![Imagen del proyecto](![image](https://github.com/tiffanyona6/3-column-preview/assets/163582444/51002150-15f1-48ff-9090-3d9a4bafeaa3)
+![Imagen del proyecto](![image](C:\Users\a0537\Pictures\Screenshots\Captura de pantalla 2024-04-21 131312.png)
 )
 
 ## Ejemplo en vivo
@@ -27,14 +27,14 @@ Creación de un card, aplicación de la fuente en CSS y en html y hemos añadido
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](![image](https://github.com/tiffanyona6/3-column-preview/assets/163582444/0b73bd64-735f-4510-9a6c-20ad87714140)
+![Captura del proyecto](![C:\Users\a0537\Pictures\Screenshots\Captura de pantalla 2024-04-21 131829.png)
 )
 
 ## Autor ✒️
 
 **Tiffany Oña**
 
-- Tiffany Oña
+- Email: tiffanyona6@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/tiffany-o%C3%B1a-/)
 
 ## Instalación
