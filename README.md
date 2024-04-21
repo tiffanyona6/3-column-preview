@@ -1,6 +1,6 @@
 # 3 Column Preview
 
-![Imagen del proyecto](![image](C:\Users\a0537\Pictures\Screenshots\Captura de pantalla 2024-04-21 131312.png)
+![Imagen del proyecto](![image](https://raw.githubusercontent.com/tiffanyona6/3-column-preview/main/desktop-preview.jpg)
 )
 
 ## Ejemplo en vivo
@@ -27,8 +27,9 @@ Creación de un card, aplicación de la fuente en CSS y en html y hemos añadido
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](![C:\Users\a0537\Pictures\Screenshots\Captura de pantalla 2024-04-21 131829.png)
-)
+![Captura del proyecto](![https://raw.githubusercontent.com/tiffanyona6/3-column-preview/main/desktop-preview.jpg)
+![Captura del proyecto](https://raw.githubusercontent.com/tiffanyona6/3-column-preview/main/mobile-design.jpg)
+
 
 ## Autor ✒️
 
