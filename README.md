@@ -1,6 +1,6 @@
 # 3 Column Preview
 
-[![Imagen del proyecto](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
+![Imagen del proyecto](![https://raw.githubusercontent.com/tiffanyona6/3-column-preview/main/desktop-preview.jpg)
 
 ## Ejemplo en vivo
 
